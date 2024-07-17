@@ -1,0 +1,102 @@
+festival.html
+
+<!DOCTYPE html>
+<head>
+<title>Festivals</title>
+</head>
+<body>
+<h1>Festivals In India</h1>
+<p>Some major festivals celebrated in India are Holi, Diwali, Onam, etc. The festivals can be 
+national or religious. Some national festivals are Independence day, Republic day, Gandhi 
+Jayanti, etc. The national festivals are celebrated together as a nation. </p>
+<h2>Diwali</h2>
+<a href="diwali.html" target="_blank">
+<img src="diwali.jpg" alt="Diwali" style="width:500px;height:700px;">
+</a>
+<h2>Holi</h2>
+<a href="holi.html" target="_blank">
+<img src="holi.jpg" alt="Holi" style="width: 500px;height: 700px;">
+</a>
+<h2>Onam</h2>
+<a href="onam.html" target="_blank">
+<img src="Onam.jpg" alt="Onam" style="width: 500px;height: 700px;">
+</a>
+</body>
+</html>
+
+diwali.html
+
+<!DOCTYPE html>
+<head>
+<title>Diwali</title>
+</head>
+<body >
+<h1>DIWALI: THE FESTIVAL OF LIGHTS</h1>
+<img src="diwali.jpg" style="width: 500px; height: 700px;" alt="Diwali">
+<p>Diwali, or Dipawali, is India's biggest and most important holiday of the year. The festival 
+gets its name from the row (avali) of clay lamps (deepa) that Indians light outside their homes 
+to symbolize the inner light that protects from spiritual darkness. This festival is as important 
+to Hindus as the Christmas holiday is to Christians. Over the centuries, Diwali has become a 
+national festival that's also enjoyed by non-Hindu communities. For instance, in Jainism, 
+Diwali marks the nirvana, or spiritual awakening, of Lord Mahavira on October 15, 527 B.C.; 
+in Sikhism, it honors the day that Guru Hargobind Ji, the Sixth Sikh Guru, wasfreed from 
+imprisonment. Buddhists in India celebrate Diwali as well. </p>
+</body>
+</html>
+
+holi.html
+
+<!DOCTYPE html>
+<head>
+<title>Holi</title>
+</head>
+<body>
+<h1>HOLI: A JOYFUL AND COLORFUL FESTIVAL</h1>
+<img src="holi.jpg" style="width: 500px; height: 700px;" alt="holi">
+<p>Holi is a popular and significant Hindu festival celebrated asthe Festival of Colours, Love, 
+and Spring. It celebrates the eternal and divine love of the deities Radha and Krishna
+Additionally, the day signifies the triumph of good over evil, as it commemorates the victory 
+of Vishnu as Narasimha over Hiranyakashipu. Holi originated and is predominantly celebrated 
+in the Indian subcontinent, but has also spread to other regions of Asia and parts of the Western 
+world through the Indian diaspora. </p>
+</body>
+</html>
+
+onam.html
+
+<!DOCTYPE html>
+<head>
+<title>Onam</title>
+</head>
+<body>
+<h1>ONAM: THE HARVEST FESTIVAL OF KERALA</h1>
+<img src="onam.jpg" style="width: 500px; height: 700px;" alt="onam">
+<p>The festival of Onam is celebrated throughout the state of Kerala. Kerala during Onam is 
+marked by happiness, excitement and enjoyment among all sections of people. Onam is 
+celebrated as an outcome of reasons that have to do with mythology as well as old agrarian 
+practices. If one is to go by the myth, then King Mahabali or Maveli was a generous and 
+virtuous ruler, who had once ruled Kerala. This occasion is celebrated by all Keralites as Onam. 
+And the other cause for celebrating Onam is because it is the time of the year when a good 
+harvest has been gathered all over Kerala, resulting in plenitude and happiness. </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
